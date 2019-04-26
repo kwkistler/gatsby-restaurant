@@ -14,5 +14,4 @@ const ContactPage = () => (
   </Layout>
 )
 
-export default ContactPag
-e
+export default ContactPage
