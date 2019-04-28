@@ -1,5 +1,5 @@
 import * as styles from "./styles"
-import { HomeHeader, PageHeader } from "./header"
+import { HomeHeader, PageHeader } from "./Header"
 import { Banner } from "./Banner"
 import { BannerButton, SectionButton } from "./Button"
 import { Section } from "./Section"

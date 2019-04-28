@@ -12,6 +12,8 @@ const BannerButton = styled.button`
   font-weight: 700;
   margin-bottom: 1rem;
   border-radius: 4px;
+  border: none;
+  outline: none;
   cursor: pointer;
   ${styles.border({ colors: `${styles.colors.mainWhite}` })};
   ${styles.transition({})};

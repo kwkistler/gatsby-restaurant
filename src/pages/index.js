@@ -10,7 +10,10 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <HomeHeader img={img}>
-      <Banner title="eatery" subtitle="55 main street- Santa Monica, CA">
+      <Banner
+        title="cali bistro bar & grill"
+        subtitle="432 Ocean Ave - Laguna Beach CA 92651"
+      >
         <BannerButton style={{ margin: "2rem auto" }}>Menu</BannerButton>
       </Banner>
     </HomeHeader>
