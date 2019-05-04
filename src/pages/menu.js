@@ -7,7 +7,7 @@ import menuImg from "../images/bcg/menuBcg.jpeg"
 
 const MenuPage = () => (
   <Layout>
-    <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
+    <SEO title="Menu" keywords={[`gatsby`, `application`, `react`]} />
     <PageHeader img={menuImg}>
       <Banner title="menu" subtitle="let's dig in" />
     </PageHeader>

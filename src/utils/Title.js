@@ -31,7 +31,7 @@ const TitleWrapper = styled.div`
     text-transform: uppercase;
   }
   .underline {
-    width: 18rem;
+    width: 24rem;
     height: 0.2rem;
     background: ${styles.colors.mainYellow};
     margin: 0.5rem auto;

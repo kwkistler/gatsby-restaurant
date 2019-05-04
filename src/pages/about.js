@@ -7,7 +7,7 @@ import aboutImg from "../images/bcg/aboutBcg.jpeg"
 
 const AboutPage = () => (
   <Layout>
-    <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
+    <SEO title="About" keywords={[`gatsby`, `application`, `react`]} />
     <PageHeader img={aboutImg}>
       <Banner title="about us" subtitle="a little about us" />
     </PageHeader>
